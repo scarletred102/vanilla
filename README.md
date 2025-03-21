@@ -42,8 +42,8 @@ REACT_APP_STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vinyl-record-store.git
-cd vinyl-record-store
+git clone https://github.com/scarletred102/vanilla.git
+cd vanilla
 ```
 
 2. Install server dependencies:
